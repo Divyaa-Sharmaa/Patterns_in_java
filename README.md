@@ -1,1 +1,1 @@
-# Patterns_in_java
+# Patterns in java
